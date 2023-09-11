@@ -1,12 +1,12 @@
 # SQL_Scripts (SQL SERVER)
 
-**Scripts em SQL para agilizar os processos no dia a dia
+**Scripts em SQL para agilizar os processos no dia a dia**
 
-Abaixo segue a lista com todos os scripts:
+**Abaixo segue a lista com todos os scripts:**
 
-Obs.: Eu anexei todos os arquivos individualmente como .sql para facilitar o download e importação para o SQL Server
+**Obs.: Eu anexei todos os arquivos individualmente como .sql para facilitar o download e importação para o SQL Server**
 
-Ps.: Todos os scripts foram criados e testados em SQL SERVER Versão 11.0.2100.60**
+**Ps.: Todos os scripts foram criados e testados em SQL SERVER Versão 11.0.2100.60**
 
 
 ### Trazer as funções criadas no banco
