@@ -10,6 +10,7 @@
 
 
 ### Trazer as funções criadas no banco
+'''
 SELECT
     name
   , DEFINITION
@@ -21,7 +22,7 @@ INNER JOIN sys.objects o
 WHERE
     (type_desc LIKE '%function%')
 AND (name LIKE '%margem%')
-
+'''
 
 ### Traz todos os Índices do banco
 SELECT
